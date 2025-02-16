@@ -24,4 +24,4 @@ Click on the `localhost` link that appears in the terminal to open the project i
 
 ---
 
-Happy coding!
+Happy coding :smile: !
